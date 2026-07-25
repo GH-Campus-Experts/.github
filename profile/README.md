@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=RISU%20Tech%20Community&fontSize=50&animation=fadeIn" alt="Header Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=GitHub%20Club20RISU&fontSize=50&animation=fadeIn" alt="Header Banner">
 </div>
 
 <h2 align="center">Empowering Students to Build, Share, and Learn Together 🌍</h2>
