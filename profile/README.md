@@ -68,11 +68,11 @@ Explore our flagship projects, directories, and open-source initiatives.
   <a href="https://github.com/GH-Campus-Experts/members-directory">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GH-Campus-Experts&repo=members-directory&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=000000" alt="Members Directory Card" width="48%" />
   </a>
-  <!-- Aap yahan aage chal kar aur bhi projects add kar sakte hain -->
+  <!-- age  aur bhi projects add karneke liye -->
 </div>
 ---
 
-## 🌟 Our Elite Contributors
+## 🌟 Our Contributors
 > The brilliant minds powering our open-source ecosystem. Make a PR in our directory to claim your spot on this wall!
 
 <div align="center">
@@ -88,11 +88,11 @@ We welcome collaborations with industry leaders, university faculty, and passion
 
 - 💬 **Community Channel:** [Join the WhatsApp Network](https://chat.whatsapp.com/HY3Rr1n0h432xZj40en2Yt) 
 - 🌐 **Ecosystem Portal:** [RISU Official Website](https://rungta.ac.in/) 
-- 📬 **Partnerships & Queries:** [Contact Leadership Team](#) 
+- 📬 **Partnerships & Queries:** [Contact Team](suryaps.cs@gmail.com) 
 
 <div align="center">
   <br>
   <i>"Engineering the Future, One Commit at a Time."</i>
   <br><br>
-  <b>Maintained by the Core Engineering Team @ RISU</b>
+  <b>Maintained by the GitHUb Core Engineering Team @ RISU</b>
 </div>
