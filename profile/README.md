@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/GH-Campus-Experts">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=GitHub+Campus+Experts+-+RISU;Rungta+International+Skills+University;Empowering+the+Next+Gen+of+Developers" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2563EB&center=true&vCenter=true&width=1000&lines=GitHub+Campus+Experts+-+RISU;Rungta+International+Skills+University;Empowering+the+Next+Gen+of+Developers" alt="Typing SVG" />
   </a>
 </div>
 
