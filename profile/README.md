@@ -43,7 +43,7 @@ We believe in learning by doing. Whether you are a beginner writing your first "
 1. **Fork & Contribute:** Check out our `community-members` repository to make your first commit.
 2. **Join the Conversation:** 
    - 💬 **WhatsApp Community:** [Join Here](https://chat.whatsapp.com/HY3Rr1n0h432xZj40en2Yt) 
-   - 🌐 **Official Website:** [RISU Website](#) 
+   - 🌐 **Official Website:** [RISU Website](https://rungta.ac.in/) 
 3. **Attend Events:** Keep an eye on our upcoming workshops and RSVP!
 
 ---
