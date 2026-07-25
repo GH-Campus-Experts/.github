@@ -55,7 +55,7 @@ We believe in learning by doing. Whether you are a beginner writing your first "
  _________________________
 |  _____________________  |
 | |                     | |
-| | >_ cd RISU_Tech     | |
+| | >_ cd GitHub_RISU   | |
 | | >_ ./start_coding   | |
 | | Loading... 100%     | |
 | |_____________________| |
