@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Institution-RISU-blue?style=for-the-badge&logo=institution" alt="Institution" />
   <img src="https://img.shields.io/badge/Focus-Open_Source_Research-000000?style=for-the-badge&logo=github" alt="Open Source" />
   <img src="https://img.shields.io/badge/Status-Active_Ecosystem-success?style=for-the-badge" alt="Status" />
-  <img src="https://komarev.com/ghpvc/?username=GH-Campus-Experts&label=Profile%20Views&color=2563EB&style=for-the-badge" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=GH-Campus-Experts&label=Page%20Visitors&color=2563EB&style=for-the-badge" alt="Visitor Count" />
 </div>
 </div>
 
