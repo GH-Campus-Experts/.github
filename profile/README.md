@@ -20,7 +20,7 @@
 ---
 
 ## 🏛️ About the Organization
-The **RISU Tech Ecosystem** is an elite, student-driven initiative officially recognized by Rungta International Skills University. Our mandate is to bridge the gap between academic learning and industry-grade software engineering through open-source contributions, real-world project development, and rigorous technical bootcamps.
+The **GHCE RISU** is officially recognized by Rungta International Skills University. Our mandate is to bridge the gap between academic learning and industry-grade software engineering through open-source contributions, real-world project development, and rigorous technical bootcamps.
 
 ---
 
